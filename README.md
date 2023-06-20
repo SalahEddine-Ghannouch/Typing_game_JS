@@ -1,2 +1,1 @@
-# simple-typing-game-
-simple typing game 1
+# simple Typing Game with JavaScript
